@@ -1,0 +1,39 @@
+.output {
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    width: 700px;
+}
+
+#namecont {
+    margin-bottom: -10px;
+}
+
+#emailcont {
+    margin-bottom: -10px;
+}
+
+.idcont {
+    display: flex;
+    margin-bottom: -10px;
+}
+
+.cont1 {
+    display: flex;
+}
+
+#IDname {
+    padding-right: 10px;
+}
+
+#addresscont {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    border-radius: 100px;
+    border: greenyellow 5px solid;
+    margin: 10px;
+}
